@@ -1,0 +1,5 @@
+train: ../YOLO_data/train/images/
+val: ../YOLO_data/val/images/
+
+nc: 2
+names: ['Frackels', 'Acne']
